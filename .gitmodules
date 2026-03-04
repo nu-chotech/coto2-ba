@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nu-chotech/coto2-ba-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nu-chotech/coto2-ba-backend.git
